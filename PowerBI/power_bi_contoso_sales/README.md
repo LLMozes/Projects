@@ -10,7 +10,12 @@ This project was completed by following Bence Borbély’s 3-week Power BI cours
 - Building interactive dashboards and visual reports
 - Implementing row-level security roles (e.g., filtering data for Europe)  
 
-Result: <br>
+### Data Model
+![Data Model](DataModel.png)
+
+### Visualization: <br>
 
 https://github.com/user-attachments/assets/7fa487d1-d16b-4dd5-af1c-f30f286d6e5e
+
+
 
